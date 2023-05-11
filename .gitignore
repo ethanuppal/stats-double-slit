@@ -1,0 +1,6 @@
+*.o
+*.DS_Store
+out.txt
+*.pdf
+*.PNG
+*.ppm
